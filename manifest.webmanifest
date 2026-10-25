@@ -1,0 +1,25 @@
+{
+  "name": "Pantry Pal - Recipes & Budget",
+  "short_name": "Pantry Pal",
+  "description": "Recipes, shopping list, estimated ingredient costs and weekly food budget.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#24382e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
